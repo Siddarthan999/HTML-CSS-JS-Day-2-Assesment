@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #b9fbe9;
 }
 
 header {
@@ -10,7 +10,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #fff;
+    background-color: rgb(162, 211, 176);
+    border-radius: 10px;
 }
 
 .logo {
@@ -46,6 +47,8 @@ nav ul li a {
     background: url('banner.jpg') no-repeat center center/cover;
     padding: 60px 20px;
     color: #fff;
+    border-radius: 10px;
+    margin: 25px;
 }
 
 .banner h2 {
@@ -57,7 +60,7 @@ nav ul li a {
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    background-color: #fff;
+    background-color: rgb(162, 211, 176);
 }
 
 .feature {
